@@ -2,7 +2,7 @@
 
 Compares four classifiers on a binary classification dataset (Approved vs. Denied), both on the original features and on PCA-reduced features. Performance is reported as Type 1 and Type 2 error rates on a held-out test set.
 
-**Author:** Siddhardh Chochipatla (UID 121093646)
+**Author:** Siddhardh Chochipatla
 
 ## Classifiers
 
